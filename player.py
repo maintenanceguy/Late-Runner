@@ -1,8 +1,4 @@
-# player.py
-# player class, keeps track of position, gravity and animation
-
 import settings
-
 
 class Player:
     def __init__(self, walk_frames, jump_frame):

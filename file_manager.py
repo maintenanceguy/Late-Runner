@@ -1,7 +1,6 @@
 import json
 import os
 
-
 def load_scores(filepath):
     if not os.path.exists(filepath):
         return []

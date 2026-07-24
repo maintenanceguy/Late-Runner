@@ -1,6 +1,6 @@
 import random
 
-# dictionary that says where each enemy type spawns
+# each enemy type spawns random
 ENEMY_SPAWN_DATA = {
     "snail": {"x_range": (1100, 1400), "bottom": 300},
     "fly": {"x_range": (900, 1100), "bottom": 210},

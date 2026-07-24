@@ -1,12 +1,10 @@
 import os
 import sys
 import pygame
-
 import settings
 from player import Player
 from enemy import spawn_enemy
 from file_manager import load_scores, save_score, get_high_score, get_average_score
-
 
 class GameManager:
     def __init__(self):
