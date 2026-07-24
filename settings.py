@@ -1,6 +1,4 @@
-# settings.py
-# all the fixed game settings in one place
-
+# display
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 400
 GROUND_Y = 300
