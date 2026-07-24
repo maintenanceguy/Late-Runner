@@ -20,7 +20,7 @@ GRAVITY = 1
 BASE_SPEED = 6
 SPEED_DIVIDER = 10
 
-# timers (milliseconds)
+# timers
 SPAWN_TIME = 2500
 SNAIL_ANIM_TIME = 500
 FLY_ANIM_TIME = 200
