@@ -29,7 +29,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Late-Runner.git
+git clone https://github.com/maintenanceguy/Late-Runner.git
 ```
 
 2. Install Pygame
