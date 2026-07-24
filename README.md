@@ -45,12 +45,12 @@ python main.py
 ```
 
 
-## 📂 Project Goal
-This project was created to practice the fundamentals of Python game development.
 
 ## 📂 Project Documentation
 [LateRunner_Documentation.pdf](https://github.com/user-attachments/files/30359291/LateRunner_Documentation.pdf)
 
+## 📂 Project Goal
+This project was created to practice the fundamentals of Python game development.
 
 ⭐ If you enjoyed this project, consider giving it a star!
 
