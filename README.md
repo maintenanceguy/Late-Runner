@@ -1,6 +1,6 @@
 # 🏃 Late Runner
 
-**Late Runner** is a simple endless runner game built with **Python** and **Pygame**, inspired by the Google Chrome Dinosaur Runner. Jump over obstacles, avoid flying enemies, and survive as long as possible to achieve the highest score!
+**Late Runner** is a simple endless runner game built with **Python** and **Pygame** inspired by the Google Chrome Dinosaur Runner. Jump over obstacles avoid flying enemies and survive as long as possible to achieve the highest score!
 
 ## 🎮 Features
 - Endless runner gameplay
