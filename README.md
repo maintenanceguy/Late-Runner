@@ -47,7 +47,7 @@ python main.py
 
 
 ## 📂 Project Documentation
-[LateRunner_Documentation.pdf](https://github.com/user-attachments/files/30372831/LateRunner_Documentation.pdf)
+[LateRunner_Documentation.pdf](https://github.com/user-attachments/files/30376206/LateRunner_Documentation.pdf)
 
 ## 📂 Project Goal
 This project was created to practice the fundamentals of Python game development.
