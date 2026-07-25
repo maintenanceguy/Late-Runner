@@ -81,7 +81,7 @@ class GameManager:
         if self.jump_sound is not None:
             self.jump_sound.set_volume(0.1)
 
-    # game logic helpers
+    # game logic(for me)
     def get_current_score(self):
         return int(pygame.time.get_ticks() / 1000) - self.start_time
 
