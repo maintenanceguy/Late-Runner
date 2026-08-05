@@ -1,6 +1,6 @@
 # 🏃 Late Runner
 
-**Late Runner** is a simple endless runner game built with **Python** and **Pygame**, inspired by the Google Chrome Dinosaur Runner. Jump over obstacles, avoid flying enemies, and survive as long as possible to achieve the highest score!
+**Late Runner** is a simple endless runner game built with **Python** and **Pygame** inspired by the Google Chrome Dinosaur Runner. Jump over obstacles avoid flying enemies and survive as long as possible to achieve the highest score!
 
 ## 🎮 Features
 - Endless runner gameplay
@@ -47,7 +47,7 @@ python main.py
 
 
 ## 📂 Project Documentation
-[LateRunner_Documentation.pdf](https://github.com/user-attachments/files/30359291/LateRunner_Documentation.pdf)
+[LateRunner_Documentation.pdf](https://github.com/user-attachments/files/30376685/LateRunner_Documentation.pdf)
 
 ## 📂 Project Goal
 This project was created to practice the fundamentals of Python game development.
